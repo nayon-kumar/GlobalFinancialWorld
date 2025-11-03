@@ -1,0 +1,47 @@
+{
+  "title": "View All Deliverables in Our Graphics Design Packages",
+  "featureColumn": "Features",
+  "columns": ["Starter", "Business", "Enterprise"],
+  "rows": [
+    {
+      "feature": "Dedicated Designer",
+      "values": ["Shared", "Assigned", "Priority Dedicated"]
+    },
+    {
+      "feature": "Social Media Posts",
+      "values": ["5 / Month", "10 / Month", "20 / Month"]
+    },
+    {
+      "feature": "Turnaround Time",
+      "values": ["3-5 Days", "2-4 Days", "1-2 Days"]
+    },
+    {
+      "feature": "Logo Design",
+      "values": ["✔", "✔", "✔"]
+    },
+    {
+      "feature": "Business Card Design",
+      "values": ["×", "✔", "✔"]
+    },
+    {
+      "feature": "Hashtag Strategy",
+      "values": ["✔", "✔", "✔"]
+    },
+    {
+      "feature": "UI/UX Elements",
+      "values": ["×", "×", "✔"]
+    },
+    {
+      "feature": "Animated Graphics / Banner",
+      "values": ["×", "✔", "✔"]
+    },
+    {
+      "feature": "Ad Campaign Graphics",
+      "values": ["✔", "✔", "✔"]
+    },
+    {
+      "feature": "CTA",
+      "values": ["Get Started", "Get Started", "Get Started"]
+    }
+  ]
+}

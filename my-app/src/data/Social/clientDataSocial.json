@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fahad Hasan",
+    "role": "Happy customer",
+    "review": "RR Softech helped us grow our followers by 300% and improve brand engagement dramatically. ",
+    "rating": 5,
+    "img": "people1.png"
+  },
+  {
+    "id": 2,
+    "name": "Robin Hasan",
+    "role": "Business Owner",
+    "review": "The team at RR Softech transformed our social media presence. Their content strategy and community",
+    "rating": 4,
+    "img": "people2.png"
+  },
+  {
+    "id": 3,
+    "name": "Sourav Debnath",
+    "role": "Verified User",
+    "review": "Professional, responsive, and results-driven. RR Softech's social media packages delivered exactly what we needed to reach",
+    "rating": 5,
+    "img": "people3.png"
+  }
+]

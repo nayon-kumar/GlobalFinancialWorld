@@ -1,0 +1,51 @@
+{
+  "title": "View all deliverables in our PPC packages",
+  "featureColumn": "Features",
+  "columns": ["Lite", "Pro", "Enterprise"],
+  "rows": [
+    {
+      "feature": "Ad Spend Limit",
+      "values": ["$100-$5,000/month", "$5,000-$30,000/month", "$30,001+/month"]
+    },
+    {
+      "feature": "Initial Optimization",
+      "values": ["$1,200", "$2,250", "$5,800"]
+    },
+    {
+      "feature": "Monthly Management",
+      "values": ["$650/month", "$975/month or 15% of spend", "$4,500/month or 12% of spend"]
+    },
+    {
+      "feature": "Included Networks",
+      "values": [
+        ["✔ Google PPC", "✔ Bing PPC"],
+        ["✔ Google", "✔ Bing", "✔ Remarketing", "✔ Customer Match"],
+        ["✔ Google", "✔ Bing", "✔ Shopping", "✔ AdTechFX Programmatic"]
+      ]
+    },
+    {
+      "feature": "Keywords",
+      "values": ["2,000 keywords", "10,000 keywords", "10,000+ keywords"]
+    },
+    {
+      "feature": "Landing Pages",
+      "values": ["1 FunnelFX Landing Page", "1 FunnelFX Landing Page", "Custom Landing Pages"]
+    },
+    {
+      "feature": "Display Ads",
+      "values": ["Not included", "2 sets (16 ads total)", "3 sets (24 ads total)"]
+    },
+    {
+      "feature": "CTV Ads",
+      "values": ["Not included", "1 CTV Ad", "2 Rapid CTV Videos"]
+    },
+    {
+      "feature": "Reporting",
+      "values": ["Monthly reporting", "Conversion tracking & analysis", "Omnichannel journey tracking"]
+    },
+    {
+      "feature": "CTA",
+      "values": ["Get Started", "Get Started", "Get Started"]
+    }
+  ]
+}

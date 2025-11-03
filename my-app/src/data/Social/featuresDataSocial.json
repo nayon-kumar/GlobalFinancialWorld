@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "img": "certified.png",
+      "title": "Certified Social Media Experts",
+      "desc": "Experienced professionals managing campaigns with proven track records."
+    },
+    {
+      "img": "realTime.png",
+      "title": "Engagement-Driven Strategy",
+      "desc": "Focused on meaningful interactions that build lasting relationships."
+    },
+    {
+      "img": "conversation.png",
+      "title": "Data-Backed Decisions",
+      "desc": "Analytics and insights guide every action we take for your brand."
+    },
+    {
+      "img": "transparent.png",
+      "title": "Transparent Progress Reports",
+      "desc": "Monthly performance reports with clear metrics and actionable insights."
+    }
+  ],
+  "banner": "socialBanner2.png"
+}

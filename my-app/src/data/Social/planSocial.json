@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Starter Plan",
+    "price": "$199",
+    "period": "/mo",
+    "image": "litePlan.png",
+    "features": [
+      "2 Platforms Managed (FB, IG)",
+      "8 Posts per Month",
+      "Basic Analytics Dashboard",
+      "Post Scheduling & Automation",
+      "Monthly Performance Report"
+    ]
+  },
+  {
+    "title": "Business Plan",
+    "price": "$499",
+    "period": "/mo",
+    "image": "proPlan.png",
+    "features": [
+      "3 Platforms (FB, IG, LinkedIn)",
+      "15 Posts per Month",
+      "Custom Graphics Design",
+      "Community Engagement Support",
+      "Hashtag & Trend Research",
+      "Paid Ad Campaign Setup",
+      "Monthly Report with Insights"
+    ]
+  },
+  {
+    "title": "Enterprise Plan",
+    "price": "$975",
+    "period": "/mo",
+    "image": "enterpricePlan.png",
+    "features": [
+      "5 Platforms (All Major Networks)",
+      "30 Posts per Month",
+      "Custom Photos & Video Content",
+      "Full Community Management",
+      "Influencer Collaboration",
+      "Advanced Paid Ad Campaigns",
+      "Social Listening & Monitoring",
+      "Dedicated Senior Manager"
+    ]
+  }
+]

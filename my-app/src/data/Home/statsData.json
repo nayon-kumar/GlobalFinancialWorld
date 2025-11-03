@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "people",
+    "value": "500+",
+    "label": "Happy Clients",
+    "bgColor": "#D7E8FF"
+  },
+  {
+    "id": 2,
+    "icon": "award",
+    "value": "50+",
+    "label": "Awards Won",
+    "bgColor": "#FFE6BF"
+  },
+  {
+    "id": 3,
+    "icon": "target",
+    "value": "1000+",
+    "label": "Projects Done",
+    "bgColor": "#D7E8FF"
+  },
+  {
+    "id": 4,
+    "icon": "chart",
+    "value": "95%",
+    "label": "Success Rate",
+    "bgColor": "#FFE6BF"
+  }
+]

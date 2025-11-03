@@ -1,0 +1,45 @@
+{
+  "header": {
+    "topTitle": "Looking for custom plans and pricing? Get a preview of our SEO Packages",
+    "subtitle": "“Our custom SEO packages are tailored to your business goals, combining advanced keyword research, on-page optimization, and data-driven strategies to maximize visibility and conversions.”",
+    "icon": "ppc-icon.png",
+    "cardTitle": "Custom SEO Plans",
+    "startingText": "Starting at",
+    "startingAt": "$650",
+    "period": "/month"
+  },
+  "pricingTitle": "How we determine pricing",
+  "pricingDetails": [
+    {
+      "icon": "target1.png",
+      "title": "Your Website Goals",
+      "description": "Your SEO pricing depends on your goals — whether you're aiming for higher rankings, local visibility, or national reach. We tailor plans around measurable outcomes that align with your objectives."
+    },
+    {
+      "icon": "target2.png",
+      "title": "Keywords & Competition",
+      "description": "We analyze keyword difficulty, search intent, and competitor strategy to determine the level of effort and budget needed to achieve consistent results."
+    },
+    {
+      "icon": "target3.png",
+      "title": "On-site & Off-site Requirements",
+      "description": "From technical optimization to link-building campaigns, your plan cost reflects the mix of on-page and off-page strategies required to achieve strong rankings."
+    }
+  ],
+  "includedTitle": "Included for All SEO Plans:",
+  "includedItems": [
+    "In-depth website audit and keyword research",
+    "Competitor and industry analysis",
+    "On-page SEO optimization (meta tags, structure)",
+    "Technical SEO improvements",
+    "High-quality backlink strategy and outreach",
+    "Google Business Profile and citations setup",
+    "Local SEO setup",
+    "Monthly performance reporting and analytics",
+    "Content optimization & internal linking updates",
+    "Site speed, indexing, and mobile optimization",
+    "Conversion tracking and goal setup",
+    "Dedicated SEO strategist & monthly consultation"
+  ],
+  "buttonText": "Get My Custom Quote"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fahad Hasan",
+    "role": "Happy customer",
+    "review": "The team at RR Softech is exceptional. Their transparent reporting and strategic approach our online presence completely.",
+    "rating": 5,
+    "img": "people1.png"
+  },
+  {
+    "id": 2,
+    "name": "Robin Hasan",
+    "role": "Business Owner",
+    "review": "RR Softech's SEO service helped us rank top 3 . Our organic traffic increased by 300% and we're seeing real business impact.",
+    "rating": 4,
+    "img": "people2.png"
+  },
+  {
+    "id": 3,
+    "name": "Sourav Debnath",
+    "role": "Verified User",
+    "review": "Switching to RR Softech was the best decision. Their Growth plan delivered incredible results.",
+    "rating": 5,
+    "img": "people3.png"
+  }
+]

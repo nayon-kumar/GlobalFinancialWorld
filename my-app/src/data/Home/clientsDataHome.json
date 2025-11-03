@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fahad Hasan",
+    "role": "Happy customer",
+    "review": "RR Softech's SEO and design services helped us increase traffic by 80%! Highly recommended.",
+    "rating": 5,
+    "img": "people1.png"
+  },
+  {
+    "id": 2,
+    "name": "Robin Hasan",
+    "role": "Business Owner",
+    "review": "Professional team that delivered exactly what we needed. Our new website looks amazing and performs great.",
+    "rating": 4,
+    "img": "people2.png"
+  },
+  {
+    "id": 3,
+    "name": "Sourav Debnath",
+    "role": "Verified User",
+    "review": "Outstanding results with our PPC campaigns. ROI improved by 150% within the first quarter",
+    "rating": 5,
+    "img": "people3.png"
+  }
+]

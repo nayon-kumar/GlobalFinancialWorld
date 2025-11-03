@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "img": "certified.png",
+      "title": "Creative Designers with Proven Expertise",
+      "desc": "Our team brings years of experience creating stunning visuals that convert."
+    },
+    {
+      "img": "realTime.png",
+      "title": "Fast, High-Quality Deliveries",
+      "desc": "We combine speed with excellence, delivering premium designs on time."
+    },
+    {
+      "img": "conversation.png",
+      "title": "Data-Driven Visual Strategy",
+      "desc": "Every design decision is backed by market research and performance metrics."
+    },
+    {
+      "img": "transparent.png",
+      "title": "Transparent Communication and Revisions",
+      "desc": "Stay in the loop with clear updates and unlimited revision options."
+    }
+  ],
+  "banner": "graphicsBanner2.png"
+}

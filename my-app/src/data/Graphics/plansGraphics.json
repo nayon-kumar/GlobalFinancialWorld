@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Starter Plan",
+    "price": "$99",
+    "period": "/mo",
+    "image": "litePlan.png",
+    "features": [
+      "3 Designs per month",
+      "Logo Design",
+      "JPG, PNG formats",
+      "3-5 Days turnaround",
+      "Email Support"
+    ]
+  },
+  {
+    "title": "Business Plan",
+    "price": "$299",
+    "period": "/mo",
+    "image": "proPlan.png",
+    "features": [
+      "8 Designs per month",
+      "Logo + Social Media Kit",
+      "JPG, PNG, PDF formats",
+      "2-4 Days turnaround",
+      "Priority Chat + Email",
+      "Infographics & Banners",
+      "Brand Guidelines"
+    ]
+  },
+  {
+    "title": "Enterprise Plan",
+    "price": "$499",
+    "period": "/mo",
+    "image": "enterpricePlan.png",
+    "features": [
+      "Unlimited Designs",
+      "Full Brand Identity Kit",
+      "JPG, PNG, AI, PSD formats",
+      "Unlimited Revisions",
+      "24-48 Hours turnaround",
+      "24/7 Dedicated Support",
+      "Brochures, UI/UX, Flyers",
+      "Advanced Brand Strategy"
+    ]
+  }
+]

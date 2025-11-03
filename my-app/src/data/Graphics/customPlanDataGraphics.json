@@ -1,0 +1,43 @@
+{
+  "header": {
+    "topTitle": "Looking for custom plans and pricing? Get a preview of our  Graphics Packages",
+    "subtitle": "Our Custom Graphics Package is tailored to your unique creative goals. Get personalized design solutions — from brand kits to marketing visuals — that perfectly match your business identity.",
+    "icon": "ppc-icon.png",
+    "cardTitle": "Custom Graphics Design Plans",
+    "startingText": "Starting at",
+    "startingAt": "$650",
+    "period": "/month"
+  },
+  "pricingTitle": "How we determine pricing",
+  "pricingDetails": [
+    {
+      "icon": "target1.png",
+      "title": "Your Website Goals",
+      "description": "Your graphics pricing depends on your goals — whether you need branding, social media visuals, or product design. We tailor the plan around measurable creative outcomes."
+    },
+    {
+      "icon": "target2.png",
+      "title": "Platform & Audience Focus",
+      "description": "We analyze your audience and the platforms you target (like Instagram, YouTube, or Print) to determine the best content mix and visual direction."
+    },
+    {
+      "icon": "target3.png",
+      "title": "Creative & Revision Requirements",
+      "description": "From concept sketches to final file delivery, your cost reflects the level of design complexity, number of revisions, and visual style needed for perfection."
+    }
+  ],
+  "includedTitle": "Included for All Graphics Plans:",
+  "includedItems": [
+    "Competitor & Audience Research",
+    "Dedicated Account Manager",
+    "Monthly Content Calendar & Scheduling",
+    "Custom Graphic Design for Posts",
+    "Custom Graphic Design for Social Media, Ads, and Web",
+    "Hashtag Strategy & Trend Analysis",
+    "Ad Campaign Setup & Optimization",
+    "Brand Identity Design for (Logo, Typography, Color)",
+    "High-quality Visual Assets & Export Formats (JPG, PNG, MP4, etc.)",
+    "Creative Concept Development & Visual Storyboarding"
+  ],
+  "buttonText": "Get My Custom Quote"
+}

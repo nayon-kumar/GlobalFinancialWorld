@@ -1,0 +1,43 @@
+{
+  "header": {
+    "topTitle": "Looking for custom plans and pricing? Get a preview of our Social Media Packages",
+    "subtitle": "“Our Custom Social Media Package is tailored to meet your unique business goals and audience preferences across all major platforms. It provides flexible, data-driven strategies to boost engagement, brand visibility, and conversions effectively.”",
+    "icon": "ppc-icon.png",
+    "cardTitle": "Custom Social media Plans",
+    "startingText": "Starting at",
+    "startingAt": "$650",
+    "period": "/month"
+  },
+  "pricingTitle": "How we determine pricing",
+  "pricingDetails": [
+    {
+      "icon": "target1.png",
+      "title": "Your Social Media Goals",
+      "description": "Your social media pricing depends on your goals — whether you’re aiming for brand awareness, audience engagement, or lead generation. We tailor packages to align with your marketing objectives and measurable growth targets"
+    },
+    {
+      "icon": "target2.png",
+      "title": "Platform & Audience Strategy",
+      "description": "We evaluate your target audience, industry trends, and best-performing platforms (like Facebook, Instagram, LinkedIn, and TikTok) to create a content strategy that maximizes reach and engagement."
+    },
+    {
+      "icon": "target3.png",
+      "title": "Content & Campaign Requirements",
+      "description": "From creative post design to paid ad management and influencer collaborations, your plan cost reflects the mix of organic and paid strategies needed to achieve impactful results across social channels."
+    }
+  ],
+  "includedTitle": "Included for All Soial media  Plans:",
+  "includedItems": [
+    "Competitor & Audience Research",
+    "Dedicated Account Manager",
+    "Monthly Content Calendar & Scheduling",
+    "Custom Graphic Design for Posts",
+    "High-quality backlink strategy and outreach (Google Business Profile, citations)",
+    "Hashtag Strategy & Trend Analysis",
+    "Ad Campaign Setup & Optimization",
+    "Content optimization & internal linking updates (site speed, indexing, mobile)",
+    "Platform Optimization (Facebook, Instagram, Linkedin)",
+    "Monthly Engagement & Growth Reports"
+  ],
+  "buttonText": "Get My Custom Quote"
+}

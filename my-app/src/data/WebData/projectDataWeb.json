@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "img": "project1.png",
+    "title": "E-Commerce Platform",
+    "description": "Modern online store with advanced filtering and seamless checkout experience.",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "img": "project2.png",
+    "title": "Corporate Website",
+    "description": "Professional corporate site with dynamic content management system.",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "img": "project3.png",
+    "title": "SaaS Product Page",
+    "description": "High-converting landing page with interactive product demonstrations.",
+    "link": ""
+  },
+  {
+    "id": 4,
+    "img": "project4.png",
+    "title": "Portfolio Website",
+    "description": "Creative portfolio showcasing work with elegant animations and transitions.",
+    "link": ""
+  }
+]

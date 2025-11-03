@@ -1,0 +1,20 @@
+{
+  "logo": {
+    "name": "RR Softech",
+    "highlight": "Softech",
+    "description": "Delivering innovative web and marketing solutions that empower brands to grow online.",
+    "social": [
+      { "img": "facebook.png", "alt": "Facebook" },
+      { "img": "twitter.png", "alt": "Twitter" },
+      { "img": "instagram.png", "alt": "Instagram" },
+      { "img": "linkedin.png", "alt": "LinkedIn" }
+    ]
+  },
+  "quickLinks": ["Home", "About", "Blog", "Contact"],
+  "services": ["Web Design", "PPC Packages", "SEO Plans", "Social Media", "Graphics"],
+  "contactInfo": [
+    { "icon": "location.png", "text": "123 Business Street, Tech City, TC 12345" },
+    { "icon": "email.png", "text": "info@rrtech.com" },
+    { "icon": "call.png", "text": "019854554654" }
+  ]
+}

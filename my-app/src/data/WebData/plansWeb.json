@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Starter Plan",
+    "price": "$99",
+    "period": "/mo",
+    "image": "litePlan.png",
+    "features": [
+      "Basic business website",
+      "Up to 5 pages",
+      "Mobile responsive design",
+      "CMS setup",
+      "1 month support"
+    ]
+  },
+  {
+    "title": "Business Plan",
+    "price": "$299",
+    "period": "/mo",
+    "image": "proPlan.png",
+    "features": [
+      "Full website design",
+      "Up to 15 pages",
+      "E-commerce / blog integration",
+      "Advanced SEO optimization",
+      "3 months support",
+      "Blog/News Section",
+      "3-Month Free Maintenance"
+    ]
+  },
+  {
+    "title": "Enterprise Plan",
+    "price": "$499",
+    "period": "/mo",
+    "image": "enterpricePlan.png",
+    "features": [
+      "Custom website solution",
+      "20+ Pages (or Unlimited)",
+      "Advanced Integrations",
+      "Advanced SEO Optimization",
+      "12 months support",
+      "24/7 Dedicated Support",
+      "API Integrations (CRM, ERP, etc.)",
+      "3-Month Free Support"
+    ]
+  }
+]

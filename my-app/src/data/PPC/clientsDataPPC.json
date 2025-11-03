@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fahad Hasan",
+    "role": "Happy customer",
+    "review": "RR Tech's PPC campaigns helped us achieve a 300% increase in qualified leads within just 3 months.",
+    "rating": 5,
+    "img": "people1.png"
+  },
+  {
+    "id": 2,
+    "name": "Robin Hasan",
+    "role": "Business Owner",
+    "review": "RR Tech has been a game changer and their team's expertise in PPC advertising delivered results beyond our expectations.",
+    "rating": 4,
+    "img": "people2.png"
+  },
+  {
+    "id": 3,
+    "name": "Sourav Debnath",
+    "role": "Verified User",
+    "review": "They truly understand how to optimize campaigns for maximum conversions.",
+    "rating": 5,
+    "img": "people3.png"
+  }
+]

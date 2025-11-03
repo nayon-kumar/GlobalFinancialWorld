@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "web.png",
+    "title": "Web Design",
+    "desc": "Responsive, user-friendly, easy to use and performance-driven websites.",
+    "bgColor": "#D7E8FF",
+    "path": "/web"
+  },
+  {
+    "id": 2,
+    "img": "ppc.png",
+    "title": "PPC Packages",
+    "desc": "Targeted campaigns to drive leads and maximize ROI.",
+    "bgColor": "#FFE6BF",
+    "path": "/ppc"
+  },
+  {
+    "id": 3,
+    "img": "seo.png",
+    "title": "SEO Plans",
+    "desc": "Boost your ranking and online visibility with data-driven SEO.",
+    "bgColor": "#D7E8FF",
+    "path": "/seo"
+  },
+  {
+    "id": 4,
+    "img": "social.png",
+    "title": "Social Media",
+    "desc": "Engaging social campaigns to build your brand presence.",
+    "bgColor": "#FFE6BF",
+    "path": "/social"
+  },
+  {
+    "id": 5,
+    "img": "graphics.png",
+    "title": "Graphics",
+    "desc": "Creative visuals that communicate your brand identity.",
+    "bgColor": "#D7E8FF",
+    "path": "/graphics"
+  }
+]

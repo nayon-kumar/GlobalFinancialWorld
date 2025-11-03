@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "peopleWhite.png",
+        "title": "Responsive Design & Mobile-First",
+        "desc": "Optimized for all devices with a mobile-first approach that ensures perfect display on any screen size."
+    },
+    {
+        "id": 2,
+        "img": "targetWhite.png",
+        "title": "UX & UI Design",
+        "desc": "Beautiful, intuitive interfaces designed with user experience at the forefront of every decision make it."
+    },
+    {
+        "id": 3,
+        "img": "graphWhite.png",
+        "title": "CMS / WordPress / Custom Builds",
+        "desc": "Flexible solutions from WordPress to fully custom builds, tailored to your specific needs."
+    },
+    {
+        "id": 4,
+        "img": "headphoneWhite.png",
+        "title": "E-Commerce & Conversion",
+        "desc": "High-converting online stores optimized for sales with seamless checkout experiences."
+    },
+    {
+        "id": 5,
+        "img": "spreed.png",
+        "title": "Website Performance & Speed",
+        "desc": "Lightning-fast loading times and optimized performance for better user experience and SEO."
+    },
+    {
+        "id": 6,
+        "img": "headPhone.png",
+        "title": "Post-Launch Support",
+        "desc": "Ongoing maintenance and support to keep your website running smoothly and securely.."
+    }
+]

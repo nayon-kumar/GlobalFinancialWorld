@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "peopleWhite.png",
+        "title": "Discovery & Strategy",
+        "desc": "We analyze your goals, target audience, and competition to create a strategic foundation."
+    },
+    {
+        "id": 2,
+        "img": "targetWhite.png",
+        "title": "Wireframes & Prototyping",
+        "desc": "Interactive prototypes bring your vision to life before development begins."
+    },
+    {
+        "id": 3,
+        "img": "graphWhite.png",
+        "title": "Design & Development",
+        "desc": "Beautiful designs meet clean code with responsive, high-performance implementation."
+    },
+    {
+        "id": 4,
+        "img": "headphoneWhite.png",
+        "title": "Launch & Growth",
+        "desc": "Smooth deployment followed by continuous optimization and support."
+    }
+]

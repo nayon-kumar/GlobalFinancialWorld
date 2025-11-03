@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "img": "certified.png",
+      "title": "Certified Google Ads Professionals",
+      "desc": "Our team consists of Google Ads certified experts with years of experience."
+    },
+    {
+      "img": "realTime.png",
+      "title": "Real-time Analytics Tracking",
+      "desc": "Monitor your campaign performance with comprehensive real-time dashboards."
+    },
+    {
+      "img": "conversation.png",
+      "title": "Conversion-focused Strategies",
+      "desc": "We optimize every campaign element to maximize your conversion rates."
+    },
+    {
+      "img": "transparent.png",
+      "title": "Transparent Reporting",
+      "desc": "Receive detailed reports showing exactly where your budget is spent."
+    }
+  ],
+  "banner": "seoBanner2.png"
+}

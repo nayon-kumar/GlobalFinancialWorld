@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img": "blog1.png",
+    "title": "Top Web Design Trends for 2024",
+    "description": "Discover the latest design trends that will shape the digital landscape this year.",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "img": "blog2.png",
+    "title": "SEO Strategies Actually Work",
+    "description": "Learn proven SEO techniques to boost your website's search rankings.",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "img": "blog3.png",
+    "title": "Social Media Marketing Guide",
+    "description": "Master social media marketing to grow your brand and engage your audience.",
+    "link": ""
+  }
+]

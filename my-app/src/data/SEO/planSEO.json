@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Starter Plan",
+    "price": "$90",
+    "period": "/mo",
+    "image": "litePlan.png",
+    "features": [
+      "10 Keywords Targeted",
+      "Basic On-Page Optimization",
+      "Monthly Report",
+      "Keyword Research",
+      "Profile (Share)"
+    ]
+  },
+  {
+    "title": "Growth Plan",
+    "price": "$250",
+    "period": "/mo",
+    "image": "proPlan.png",
+    "features": [
+      "25 Keywords Targeted",
+      "Keyword Research",
+      "Standard On-Page Optimization",
+      "Basic Off-Page SEO",
+      "Partial Technical SEO",
+      "Bi-weekly Reporting"
+    ]
+  },
+  {
+    "title": "Enterprise Plan",
+    "price": "$500",
+    "period": "/mo",
+    "image": "enterpricePlan.png",
+    "features": [
+      "50+ Keywords Targeted",
+      "Advanced On-Page Optimization",
+      "Advanced Off-Page SEO",
+      "Full Technical Setup",
+      "24/7 Dedicated Support",
+      "Weekly Reporting + Dashboard",
+      "Google Business Page",
+      "Webmaster optimize"
+    ]
+  }
+]

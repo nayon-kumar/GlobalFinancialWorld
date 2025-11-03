@@ -1,0 +1,47 @@
+{
+  "title": "View all deliverables in our SEO packages",
+  "featureColumn": "Features",
+  "columns": ["Starter", "Growth", "Enterprise"],
+  "rows": [
+    {
+      "feature": "Price",
+      "values": ["$80/month", "$250/month", "$500/month"]
+    },
+    {
+      "feature": "Keywords Targeted",
+      "values": ["10+", "25+", "50+"]
+    },
+    {
+      "feature": "Support",
+      "values": ["Email", "Priority Chat", "24/7 Dedicated Manager"]
+    },
+    {
+      "feature": "On-Page Optimization",
+      "values": ["✔ Basic", "✔ Standard", "✔ Advanced"]
+    },
+    {
+      "feature": "Off-Page SEO",
+      "values": ["*", "✔ Basic", "✔ Advanced"]
+    },
+    {
+      "feature": "Technical SEO",
+      "values": ["*", "✔ Partial", "✔ Full Technical Setup"]
+    },
+    {
+      "feature": "Display Ads",
+      "values": ["Not Included", "2 sets (16 ads total)", "3 sets (24 ads total)"]
+    },
+    {
+      "feature": "CTV Ads",
+      "values": ["\"Add to Cart\" / \"Get Started\"", "\"Add to Cart\" / \"Get Started\"", "\"Add to Cart\" / \"Get Started\""]
+    },
+    {
+      "feature": "Reporting",
+      "values": ["Monthly", "Bi-weekly", "Weekly + Dashboard"]
+    },
+    {
+      "feature": "CTA",
+      "values": ["Get Started", "Get Started", "Get Started"]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fahad Hasan",
+    "role": "Happy customer",
+    "review": "RR Softech transformed our online presence completely. Visitors at a rate we never thought possible.",
+    "rating": 5,
+    "img": "people1.png"
+  },
+  {
+    "id": 2,
+    "name": "Robin Hasan",
+    "role": "Business Owner",
+    "review": "Their fast delivery and creativity are unmatched. Every design exceeds our expectations.",
+    "rating": 4,
+    "img": "people2.png"
+  },
+  {
+    "id": 3,
+    "name": "Sourav Debnath",
+    "role": "Verified User",
+    "review": "hey perfectly captured our vision. The attention to detail and professionalism is outstanding.",
+    "rating": 5,
+    "img": "people3.png"
+  }
+]

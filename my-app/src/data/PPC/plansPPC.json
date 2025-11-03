@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Lite Plan",
+    "price": "$199",
+    "period": "/mo",
+    "image": "litePlan.png",
+    "features": [
+      "3 Campaigns",
+      "Keyword Research",
+      "Monthly Report",
+      "Email Support",
+      "Basic Analytics"
+    ]
+  },
+  {
+    "title": "Pro Plan",
+    "price": "$499",
+    "period": "/mo or 15% of ad spend",
+    "image": "proPlan.png",
+    "features": [
+      "7 Campaigns",
+      "Keyword Research",
+      "Landing Page Optimization",
+      "Bi-weekly Reports",
+      "Priority Support",
+      "Advanced Analytics",
+      "A/B Testing"
+    ]
+  },
+  {
+    "title": "Enterprise Plan",
+    "price": "$975",
+    "period": "/mo + $250 platform fee",
+    "image": "enterpricePlan.png",
+    "features": [
+      "Unlimited Campaigns",
+      "Advanced Targeting",
+      "Landing Page Optimization",
+      "Weekly Reports",
+      "24/7 Dedicated Support",
+      "Custom Analytics Dashboard",
+      "Multi-platform Integration",
+      "Conversion Rate Optimization"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "title": "View All Deliverables in Our Social Media Packages",
+  "featureColumn": "Features",
+  "columns": ["Starter", "Business", "Enterprise"],
+  "rows": [
+    {
+      "feature": "Platforms Managed",
+      "values": ["2 (FB, IG)", "3 (FB, IG, LinkedIn)", "5 (All major platforms)"]
+    },
+    {
+      "feature": "Post Frequency",
+      "values": ["8 Posts / Month", "15 Posts / Month", "30 Posts / Month"]
+    },
+    {
+      "feature": "Ad Budget Management",
+      "values": ["$100–$500", "$100–$500", "$3,000+"]
+    },
+    {
+      "feature": "Post Scheduling & Automation",
+      "values": ["✔", "✔", "✔"]
+    },
+    {
+      "feature": "Community Engagement",
+      "values": ["×", "✔", "✔"]
+    },
+    {
+      "feature": "Hashtag Strategy",
+      "values": ["✔", "✔", "✔"]
+    },
+    {
+      "feature": "Influencer Collaboration",
+      "values": ["×", "×", "✔"]
+    },
+    {
+      "feature": "Account Growth Analysis",
+      "values": ["✔", "✔", "✔"]
+    },
+    {
+      "feature": "CTA",
+      "values": ["Get Started", "Get Started", "Get Started"]
+    }
+  ]
+}

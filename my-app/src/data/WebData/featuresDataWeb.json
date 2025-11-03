@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "img": "certified.png",
+      "title": "Experienced Team",
+      "desc": "Expert designers and developers with years of proven success."
+    },
+    {
+      "img": "realTime.png",
+      "title": "Conversion-Centric",
+      "desc": "Every design decision is made with your business goals in mind."
+    },
+    {
+      "img": "conversation.png",
+      "title": "Future-Proof Builds",
+      "desc": "Responsive, scalable websites built with the latest technologies."
+    },
+    {
+      "img": "transparent.png",
+      "title": "Dedicated Support",
+      "desc": "Ongoing optimization and support to ensure continued success."
+    }
+  ],
+  "banner": "webBanner2.png"
+}

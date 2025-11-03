@@ -1,0 +1,43 @@
+{
+  "header": {
+    "topTitle": "Looking for custom plans and pricing? Get a preview of our PPC packages",
+    "subtitle": "You can choose a PPC management package that suits your business’ needs  and fits within your marketing budget. When you decide to partner with  WebFX, we’ll work closely with you to create a custom PPC campaign to  help you achieve your business goals.",
+    "icon": "ppc-icon.png",
+    "cardTitle": "Custom PPC Plans",
+    "startingText": "Starting at",
+    "startingAt": "$650",
+    "period": "/month"
+  },
+  "pricingTitle": "How we determine pricing",
+  "pricingDetails": [
+    {
+      "icon": "target1.png",
+      "title": "Your Ad Spend",
+      "description": "Your advertising budget will determine monthly management costs and recommended channels."
+    },
+    {
+      "icon": "target2.png",
+      "title": "Networks & Targeting",
+      "description": "Strategies depend on where you advertise — Google, Bing, Programmatic, etc."
+    },
+    {
+      "icon": "target3.png",
+      "title": "Creative Support",
+      "description": "Professional display ads designed by our team if needed."
+    }
+  ],
+  "includedTitle": "Included for All PPC Plans:",
+  "includedItems": [
+    "In-depth keyword research and advanced selection",
+    "Competitor and industry analysis",
+    "Data-backed keyword development",
+    "Ongoing ad strategy management and optimization",
+    "Access to RevenueCloudFX",
+    "Closed-loop ROI tracking",
+    "Conversion-boosting ad copy",
+    "Expert support from strategists",
+    "Campaign performance reporting",
+    "Strategic bid management"
+  ],
+  "buttonText": "Get My Custom Quote"
+}

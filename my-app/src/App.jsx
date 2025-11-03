@@ -2,16 +2,16 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';    
-import Services from './pages/servicess';
-import Web from './pages/web';
-import PPC from './pages/ppc';
-import SEO from './pages/seo';
-import Social from './pages/social';
-import Graphics from './pages/graphics';
-import AboutUs from './pages/aboutus';
-import Blog from './pages/blog';
-import Contact from './pages/contactus';
-import Quote from './pages/quote';
+import Services from './pages/Servicess';
+import Web from './pages/Web';
+import PPC from './pages/Ppc';
+import SEO from './pages/Seo';
+import Social from './pages/Social';
+import Graphics from './pages/Graphics';
+import AboutUs from './pages/AboutUs';
+import Blog from './pages/Blog';
+import Contact from './pages/ContactUs';
+import Quote from './pages/Quote';
 import Footer from './components/Footer';
 
 const App = () => {

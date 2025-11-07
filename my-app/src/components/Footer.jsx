@@ -1,12 +1,12 @@
 import React from 'react'
 import footerData from '../data/Footer/footerData.json'
-import facebook from '../assets/facebook.png'
-import twitter from '../assets/twitter.png'
-import instagram from '../assets/instagram.png'
-import linkedin from '../assets/linkedin.png'
-import location from '../assets/location.png'
-import email from '../assets/email.png'
-import call from '../assets/call.png'
+import facebook from '../assets/Footer/facebook.png'
+import twitter from '../assets/Footer/twitter.png'
+import instagram from '../assets/Footer/instagram.png'
+import linkedin from '../assets/Footer/linkedin.png'
+import location from '../assets/Footer/location.png'
+import email from '../assets/Footer/email.png'
+import call from '../assets/Footer/call.png'
 
 const iconMap = {
   "facebook.png": facebook,

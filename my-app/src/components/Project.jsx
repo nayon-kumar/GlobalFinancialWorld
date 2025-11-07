@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
-import project1 from '../assets/project1.png'
-import project2 from '../assets/project2.png'
-import project3 from '../assets/project3.png'
-import project4 from '../assets/project4.png'
+import project1 from '../assets/Project/project1.png'
+import project2 from '../assets/Project/project2.png'
+import project3 from '../assets/Project/project3.png'
+import project4 from '../assets/Project/project4.png'
 
 const imageMap = {
   "project1.png": project1,

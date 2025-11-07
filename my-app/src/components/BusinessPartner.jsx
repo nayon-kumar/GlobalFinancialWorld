@@ -1,9 +1,9 @@
 import React, { useRef } from "react";
-import meta from "../assets/meta.png";
-import shopify from "../assets/shopify.png";
-import google from "../assets/google.png";
-import microsoft from "../assets/microsoft.png";
-import semrush from "../assets/semrush.png";
+import meta from "../assets/BusinessPartner/meta.png";
+import shopify from "../assets/BusinessPartner/shopify.png";
+import google from "../assets/BusinessPartner/google.png";
+import microsoft from "../assets/BusinessPartner/microsoft.png";
+import semrush from "../assets/BusinessPartner/semrush.png";
 
 const BusinessPartner = () => {
   const scrollRef = useRef(null);

@@ -1,9 +1,9 @@
 import React from 'react'
 import chooseData from '../data/Home/chooseData.json'
-import people from '../assets/peopleWhite.png'
-import target from '../assets/targetWhite.png'
-import graph from '../assets/graphWhite.png'
-import headphone from '../assets/headphoneWhite.png'
+import people from '../assets/Choose/peopleWhite.png'
+import target from '../assets/Choose/targetWhite.png'
+import graph from '../assets/Choose/graphWhite.png'
+import headphone from '../assets/Choose/headphoneWhite.png'
 
 const imageMap = {
     "peopleWhite.png": people,

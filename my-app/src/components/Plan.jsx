@@ -1,7 +1,7 @@
 import React from 'react';
-import litePlan from '../assets/litePlan.png';
-import proPlan from '../assets/proPlan.png';
-import enterpricePlan from '../assets/enterpricePlan.png';
+import litePlan from '../assets/Plan/litePlan.png';
+import proPlan from '../assets/Plan/proPlan.png';
+import enterpricePlan from '../assets/Plan/enterpricePlan.png';
 
 const imageMap = {
   "litePlan.png": litePlan,

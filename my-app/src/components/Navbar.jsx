@@ -8,15 +8,17 @@ const Navbar = () => {
   // Menu items only for existing pages
   const menuItems = [
     { name: "Home", path: "/" },
-    { name: "About Us", path: "/aboutus" },
-    { name: "Blog", path: "/blog" },
-    { name: "Contact Us", path: "/contact" },
+    { name: "Web Design", path: "/web" },
+    { name: "PPC Package", path: "/ppc" },
+    { name: "SEO Plan", path: "/seo" },
+    { name: "Social Media", path: "/social" },
+    { name: "Graphics", path: "/graphics" },
   ];
 
   return (
     <>
       {/* Navbar */}
-      <div className="navbar bg-base-100 shadow-sm #FEFFFF fixed top-0 left-0 w-full z-50">
+      <div className="navbar bg-base-100 shadow-sm #FEFFFF fixed w-full z-50 max-w-[1500px]">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

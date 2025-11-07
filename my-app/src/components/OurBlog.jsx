@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import blogData from '../data/Home/blogData.json'
-import blog1 from '../assets/blog1.png'
-import blog2 from '../assets/blog2.png'
-import blog3 from '../assets/blog3.png'
+import blog1 from '../assets/Home/blog1.png'
+import blog2 from '../assets/Home/blog2.png'
+import blog3 from '../assets/Home/blog3.png'
 
 const imageMap = {
     "blog1.png": blog1,

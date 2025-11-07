@@ -1,9 +1,9 @@
 import React from 'react';
 
 // Import images from assets
-import people1 from '../assets/people1.png';
-import people2 from '../assets/people2.png';
-import people3 from '../assets/people3.png';
+import people1 from '../assets/Rating/people1.png';
+import people2 from '../assets/Rating/people2.png';
+import people3 from '../assets/Rating/people3.png';
 
 // Map JSON filenames to imported images
 const imageMap = {

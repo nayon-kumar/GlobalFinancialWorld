@@ -1,8 +1,8 @@
 import React from "react";
-import checkIcon from "../assets/check.png";
+import checkIcon from "../assets/CustomPlan/check.png";
 
 // Automatically import all images from the assets folder
-const images = import.meta.glob("../assets/*", { eager: true, import: "default" });
+const images = import.meta.glob("../assets/CustomPlan/*", { eager: true, import: "default" });
 
 // Helper function to get image by filename
 const getImage = (filename) => {
